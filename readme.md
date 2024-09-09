@@ -6,11 +6,11 @@
 The following graph primitives are implemented:
 - a root 2n sided regular polygon 
 - rotation tranformations to duplicate the polygons at different angle creating an approximate spher as n, and the number duplicates increase
-- primitive demo : [link](videos/16_20_240.mp4)
+- primitive demo : [link-1](videos/2_4_120.mp4) [link-2](videos/6_8_120.mp4) [link-3](videos/16_20_240.mp4)
 - Time as a function of camera fps
 - Angular velocity along each axis by applying rotation transformations at appropriate angles each frame
 - parabolic trajectory, and acceleration modelling gravity.
-
+- complete demo : - primitive demo : [link](videos/FINAL_EXTENSION_DEMO.mp4)
 ## setup:
 
 ### key features:
