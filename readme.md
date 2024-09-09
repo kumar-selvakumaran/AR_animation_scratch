@@ -13,7 +13,7 @@ The following graph primitives are implemented:
   <tr>
     <th>
       <video width="320" height="240" controls autoplay>
-        <source src="videos/2_4_120.mp4" type="video/mp4">
+        <source src="./videos/2_4_120.mp4" type="video/mp4">
       </video>
     </th> 
     <th>
